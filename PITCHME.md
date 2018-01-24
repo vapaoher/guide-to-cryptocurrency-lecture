@@ -100,31 +100,20 @@ Information can only be appended, meaning, added to the end of the blockchain ov
 
 ### So why bother?
 
++++
+
 ```
-+ Banking System
++ Computer System
 |
 | Consumer
-| Bank/Banking Software
-| Banking Data Infrastructure
-| Banking Servers (Hardware)
+| Applications
+| Operating System
+| Hardware
 |
 + Fin
 ```
 
 +++
-
-<div class="col-2">
-
-```
-+ Banking System
-|
-| Consumer
-| Bank/Banking Software
-| Banking Data Infrastructure
-| Banking Servers (Hardware)
-|
-+ Fin
-```
 
 ```
 + Blockchain System
@@ -137,7 +126,16 @@ Information can only be appended, meaning, added to the end of the blockchain ov
 + Fin
 ```
 
-## </div>
++++
+
+1. Decentralization
+2. Anonymity
+3. The Technical Wild West
+
+Note:
+Decentralization - free markets, security benefits, p2p service exchanges, economic models based on rewarding users vs large corporations.
+
+---
 
 @title[How do you use Cryptocurrency?]
 
@@ -159,6 +157,7 @@ Information can only be appended, meaning, added to the end of the blockchain ov
 * Binance
 * Bittrex
 * Cryptopia
+* ETC
 
 +++
 
@@ -189,6 +188,17 @@ Information can only be appended, meaning, added to the end of the blockchain ov
 +++
 
 1. As an exchange for use of your digitial commodities
+
+```
++ Computer System
+|
+| Consumer
+| Applications
+| Operating System
+| Hardware
+|
++ Fin
+```
 
 +++
 
