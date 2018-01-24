@@ -58,7 +58,7 @@
 
 ### So how is cryptocurrency different?
 
-*
+\*
 
 ---
 
@@ -74,8 +74,6 @@
 @fa[arrow-down]
 
 +++
-
----
 
 ### What are exchanges?
 
@@ -100,9 +98,26 @@
 
 * Addresses
 
+---
+
+@title[What are the uses for Cryptocurrency?]
+
+### What are the uses for Cryptocurrency?
+
+1. As a trade for digital commodities or services
+2. As an investment
+
+@fa[arrow-down]
+
 +++
 
-### What are the uses for cryptocurrency?
+1. As an exchange for use of your digitial commodities
 
-* As a trade for digital commodities or services
-* As an investment
++++
+
+1. As an exchange for use of your digitial or non-digital services
+
++++
+
+1. Position Trading
+2. Day Trading
