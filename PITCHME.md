@@ -1,54 +1,108 @@
 @title[Introduction]
-### A Beginner's Guide to Cryptocurrency 
+
+### A Beginner's Guide to Cryptocurrency
+
 #### <span style="font-family:Helvetica Neue; font-weight:bold">A Digital <span style="color:#e49436">Gold</span> Rush</span>
 
 ---
+
 @title[Topics]
+
 ## Today's Topics
 
 1. What is Cryptocurrency?
-2. What is the tech behind cryptocurrency?
-3. Why should you care/ What are some economic opportunities?
+2. How do you use Cryptocurrency?
+3. Why should you use Cryptocurrency?
 
 ---
 
 @title[What is Cryptocurrency]
 
+## What is Cryptocurrency?
+
 1. What is money/currency?
-2. What is the *crypto* part cryptocurrency?
-3. What makes cryptocurrency different from regular currency? 
+2. History of bitcoin.
+3. What is the _crypto_ part of cryptocurrency?
+4. What is the blockchain?
+5. What makes cryptocurrency different from regular currency?
 
 @fa[arrow-down]
 
 +++
-## The History and Definition of Money
+
+### The History and Definition of Money
+
+* What is money?
+* What is currency?
 
 +++
-## What is cryptography?
+
+### The History of Bitcoin
+
+* Satoshi Nakamoto
+* Financial Crisis of 2008
 
 +++
-## So What? 
+
+### What is cryptography?
+
+* Definition of cryptography
+
++++
+
+### What is the blockchain?
+
+* Distributed immutable ledger
+
++++
+
+### So how is cryptocurrency different?
+
+*
 
 ---
-## Let's Geek Out on the Technical Specs
 
-1. What is the blockchain?
+@title[How do you use Cryptocurrency?]
+
+## How do you use Cryptocurrency?
+
+1. What are exchanges?
+2. What are wallets?
+3. How do you transfer money?
+4. What are the uses for cryptocurrency?
 
 @fa[arrow-down]
 
 +++
-A distributed immutable ledger...
 
 ---
-## Show me the Money!
 
-@fa[arrow-down]
+### What are exchanges?
+
+* Coinbase
+* Gdax
+* Binance
+* Bittrex
+* Cryptopia
 
 +++
-## Cryptocommodities
+
+### What are wallets?
+
+* Exchange Wallet
+* Hardware Wallet
+* Cold Wallet
+* Paper Wallet
 
 +++
-## Cryptocurrency Trading
+
+### How do you transfer money?
+
+* Addresses
 
 +++
-## New Economic Models
+
+### What are the uses for cryptocurrency?
+
+* As a trade for digital commodities or services
+* As an investment
