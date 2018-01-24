@@ -61,10 +61,7 @@ Note: Evidence pointing to he's a group of people, mastery of cryptography, comp
 > The Times 03/Jan/2008 Chancellor on brink of second bailout of banks
 
 Note:
-First instance of recording a note on a blockchain transaction by Satoshi
-
-Note:
-It's completely decentraliezed, with no central server or trusted parties, because everything is based on crypto proff instead of trust...I think this is the first time we're trying a decentrailzed, non-trust-based system.
+First instance of recording a note on a blockchain transaction by Satoshi. "It's completely decentraliezed, with no central server or trusted parties, because everything is based on crypto proff instead of trust...I think this is the first time we're trying a decentrailzed, non-trust-based system."
 
 +++
 
