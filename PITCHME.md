@@ -24,7 +24,7 @@
 2. History of bitcoin.
 3. What is the _crypto_ part of cryptocurrency?
 4. What is the blockchain?
-5. What makes cryptocurrency different from regular currency?
+5. So, why bother?
 
 @fa[arrow-down]
 
@@ -76,6 +76,17 @@ Famous Example Caesar's Cipher http://practicalcryptography.com/ciphers/caesar-c
 
 ### But First...An Analogy
 
+```
++ Banking System
+|
+| Consumer
+| Bank/Banking Software
+| Banking Data Infrastructure
+| Banking Servers (Hardware)
+|
++ Fin
+```
+
 +++
 
 ### What is the blockchain?
@@ -87,9 +98,46 @@ Note:
 Information can only be appended, meaning, added to the end of the blockchain over time and cannot be deleted, an audit trail written in digital concrete. Only information is confirmed. This is a rarity in our digitial world where anything can be erased. https://anders.com/blockchain/hash.html
 +++
 
-### So how is cryptocurrency different?
+### So why bother?
 
----
+```
++ Banking System
+|
+| Consumer
+| Bank/Banking Software
+| Banking Data Infrastructure
+| Banking Servers (Hardware)
+|
++ Fin
+```
+
++++
+
+<div class="col-2">
+
+```
++ Banking System
+|
+| Consumer
+| Bank/Banking Software
+| Banking Data Infrastructure
+| Banking Servers (Hardware)
+|
++ Fin
+```
+
+```
++ Blockchain System
+|
+| Consumer
+| Applications
+| Bitcoin Software
+| Miners (Hardware)
+|
++ Fin
+```
+
+## </div>
 
 @title[How do you use Cryptocurrency?]
 
