@@ -20,7 +20,7 @@
 
 ## What is Cryptocurrency?
 
-1. What is money/currency?
+1. What is currency?
 2. History of bitcoin.
 3. What is the _crypto_ part of cryptocurrency?
 4. What is the blockchain?
@@ -30,10 +30,15 @@
 
 +++
 
-### The History and Definition of Money
+### The Definition of Currency
 
-* What is money?
-* What is currency?
+* It is a medium of exchange.
+* A unit of account.
+* It is portable.
+* It is durable.
+* It is divisible.
+* It is fungible (interchangeable).
+* Currency has no intrinsic value!
 
 +++
 
@@ -44,9 +49,30 @@
 
 +++
 
+* Satoshi is the anonymous person(s) who created Bitcoin
+* [Bitcoin White Paper](https://bitcoin.org/bitcoin.pdf)
+
+Note: Evidence pointing to he's a group of people, mastery of cryptography, computer science, economics, and psychology
+
++++
+
+* Financial Crisis of 2008
+
+> The Times 03/Jan/2008 Chancellor on brink of second bailout of banks
+
+Note: First instance of recording a note on a blockchain transaction by Satoshi
+
+Note: It's completely decentraliezed, with no central server or trusted parties, because everything is based on crypto proff instead of trust...I think this is the first time we're trying a decentrailzed, non-trust-based system.
+
++++
+
 ### What is cryptography?
 
-* Definition of cryptography
+* Secure communcation in the presense of 3rd parties aka adversaries
+  -- Secret Codes, Hidden Messages, Encryption
+  -- Converting information to nonsense and back to the original message to prevent interception by malicious 3rd parties
+
+Note: Famous Example Caesar's Cipher http://practicalcryptography.com/ciphers/caesar-cipher/
 
 +++
 
