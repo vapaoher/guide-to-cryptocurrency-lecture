@@ -56,8 +56,6 @@ Note: Evidence pointing to he's a group of people, mastery of cryptography, comp
 
 +++
 
-* Financial Crisis of 2008
-
 > The Times 03/Jan/2008 Chancellor on brink of second bailout of banks
 
 Note:
@@ -76,10 +74,17 @@ Famous Example Caesar's Cipher http://practicalcryptography.com/ciphers/caesar-c
 
 +++
 
+### But First...An Analogy
+
++++
+
 ### What is the blockchain?
 
-* Distributed immutable ledger
+* A ledger that is distributed and immutable
+* [Blockchain Demo](https://www.youtube.com/watch?v=_160oMzblY8)
 
+Note:
+Information can only be appended, meaning, added to the end of the blockchain over time and cannot be deleted, an audit trail written in digital concrete. Only information is confirmed. This is a rarity in our digitial world where anything can be erased. https://anders.com/blockchain/hash.html
 +++
 
 ### So how is cryptocurrency different?
