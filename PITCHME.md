@@ -60,19 +60,22 @@ Note: Evidence pointing to he's a group of people, mastery of cryptography, comp
 
 > The Times 03/Jan/2008 Chancellor on brink of second bailout of banks
 
-Note: First instance of recording a note on a blockchain transaction by Satoshi
+Note:
+First instance of recording a note on a blockchain transaction by Satoshi
 
-Note: It's completely decentraliezed, with no central server or trusted parties, because everything is based on crypto proff instead of trust...I think this is the first time we're trying a decentrailzed, non-trust-based system.
+Note:
+It's completely decentraliezed, with no central server or trusted parties, because everything is based on crypto proff instead of trust...I think this is the first time we're trying a decentrailzed, non-trust-based system.
 
 +++
 
 ### What is cryptography?
 
 * Secure communcation in the presense of 3rd parties aka adversaries
-  -- Secret Codes, Hidden Messages, Encryption
-  -- Converting information to nonsense and back to the original message to prevent interception by malicious 3rd parties
+    * Secret Codes, Hidden Messages, Encryption
+    * Converting information to nonsense and back to the original message to prevent interception by malicious 3rd parties
 
-Note: Famous Example Caesar's Cipher http://practicalcryptography.com/ciphers/caesar-cipher/
+Note:
+Famous Example Caesar's Cipher http://practicalcryptography.com/ciphers/caesar-cipher/
 
 +++
 
@@ -83,8 +86,6 @@ Note: Famous Example Caesar's Cipher http://practicalcryptography.com/ciphers/ca
 +++
 
 ### So how is cryptocurrency different?
-
-\*
 
 ---
 
