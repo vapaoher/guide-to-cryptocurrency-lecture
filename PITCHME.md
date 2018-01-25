@@ -92,7 +92,8 @@ Famous Example Caesar's Cipher http://practicalcryptography.com/ciphers/caesar-c
 ### What is the blockchain?
 
 * A ledger that is distributed and immutable
-* [Blockchain Demo](https://www.youtube.com/watch?v=_160oMzblY8)
+* [Blockchain Demo](https://anders.com/blockchain/hash.html)
+* [For the youtube video for a deeper explanation](https://anders.com/blockchain/)
 
 Note:
 Information can only be appended, meaning, added to the end of the blockchain over time and cannot be deleted, an audit trail written in digital concrete. Only information is confirmed. This is a rarity in our digitial world where anything can be erased. https://anders.com/blockchain/hash.html. Miners calculate the blockchain and are paid in cryptocurrency in the first transaction known as the coinbase transaction through the concept known as proof of work.
@@ -172,8 +173,9 @@ Single use, case sensitive, only have a "recieve" address not a "from" address
 
 #### Part II - Nerd Alert
 
-[Public and Private Keys](https://anders.com/blockchain/public-private-keys/keys.html)
-+++
+* [Public and Private Keys](https://anders.com/blockchain/public-private-keys/keys.html)
+* [For the youtube video for a deeper explanation](https://anders.com/blockchain/)
+  +++
 
 ### Journey of a Transaction
 
