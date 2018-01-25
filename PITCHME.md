@@ -11,7 +11,7 @@
 ## Today's Topics
 
 1. What is Cryptocurrency?
-2. How do you use Cryptocurrency?
+2. How do I get started using it?
 3. Why should you use Cryptocurrency?
 
 ---
@@ -95,7 +95,8 @@ Famous Example Caesar's Cipher http://practicalcryptography.com/ciphers/caesar-c
 * [Blockchain Demo](https://www.youtube.com/watch?v=_160oMzblY8)
 
 Note:
-Information can only be appended, meaning, added to the end of the blockchain over time and cannot be deleted, an audit trail written in digital concrete. Only information is confirmed. This is a rarity in our digitial world where anything can be erased. https://anders.com/blockchain/hash.html
+Information can only be appended, meaning, added to the end of the blockchain over time and cannot be deleted, an audit trail written in digital concrete. Only information is confirmed. This is a rarity in our digitial world where anything can be erased. https://anders.com/blockchain/hash.html. Miners calculate the blockchain and are paid in cryptocurrency in the first transaction known as the coinbase transaction through the concept known as proof of work.
+
 +++
 
 ### So why bother?
@@ -137,17 +138,40 @@ Decentralization - free markets, security benefits, p2p service exchanges, econo
 
 ---
 
-@title[How do you use Cryptocurrency?]
+@title[How do I get started?]
 
-## How do you use Cryptocurrency?
+## How do I get started?
 
-1. What are exchanges?
-2. What are wallets?
-3. How do you transfer money?
-4. What are the uses for cryptocurrency?
+* An Address
+* A Wallet
+* Then you can get cryptocurrencies through...
+    * an exchange.
+    * mining.
+    * forum services.
+    * meeting someone in a dark alleyway.
 
 @fa[arrow-down]
 
++++
+
+### What's an address?
+
+#### Part I - A Less Technical Explanation
+
+* 25 - 35 alphanumeric characters, beginning with the number 1 or 3 that represents a possible destination for a bitcoin payment.
+* `3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy`
+* Comparable to an email address
+
+Note:
+Single use, case sensitive, only have a "recieve" address not a "from" address
+
++++
+
+### What's an address?
+
+#### Part II - Nerd Alert
+
+[Public and Private Keys](https://anders.com/blockchain/public-private-keys/keys.html)
 +++
 
 ### What are exchanges?
@@ -161,18 +185,41 @@ Decentralization - free markets, security benefits, p2p service exchanges, econo
 
 +++
 
-### What are wallets?
+### How do I mine?
 
-* Exchange Wallet
-* Hardware Wallet
-* Cold Wallet
-* Paper Wallet
+1. Buy a fancy gigantic computer with all kinds of lights and fans and setup a mining client and run it all day.
+2. Figure out how to cloud mine (same thing minus having to buy the fancy computer).
+
+Also known as Proof of Work, or Proof of Stake, or Proof of Authority.
 
 +++
 
 ### How do you transfer money?
 
-* Addresses
+* Through an exchange
+* Bitcoin Software
+
++++
+
+### Journey of a Transaction
+
+* A client wishes to send money and generates an output using a script (or software)
+* This puts a hold on the wallet in that dollar amount and will only release it when someone presents a key correspoding to that reciever's public address.
+    * "This output is payable to whoever can present a signature from the key corresponding to Bob's public address".
+* The transaction is then transmited to the Bitcoin Network/Software System in a peer 2 peer system
+* A bitcoin node/computer recieves a transaction it has never seen before it will immediately forward it to all the other nodes it's connected to
+* As it's propagated miners get to work adding it to the blockchain in the process known as mining.
+
++++
+
+* Mining serves two purposes:
+    * Make sure that each block is properly formed according to the protocol’s consensus rules
+    * any malformed blocks are rejected
+    * Creates new bitcoins in the process, of which there are a finite amount (like a central bank printing new money)
+    * The miner in turn receives bitcoin and a transaction fee as reward for their mining efforts
+    * However, this reward will only be collected if they validate all the transactions according to the consensus rules.
+    * It’s comparable to think of the proof of work algorithm as a giant sudoko puzzle that scales in difficulty
+    * Each miner is in a global race to solve the puzzle and publish the block into the blockchain and receive the reward
 
 ---
 
