@@ -179,17 +179,6 @@ Single use, case sensitive, only have a "recieve" address not a "from" address
 
 +++
 
-### Journey of a Transaction
-
-* A client wishes to send money and generates an output using a script (or software)
-* This puts a hold on the wallet in that dollar amount and will only release it when someone presents a key correspoding to that reciever's public address.
-    * "This output is payable to whoever can present a signature from the key corresponding to Bob's public address".
-* The transaction is then transmited to the Bitcoin Network/Software System in a peer 2 peer system
-* A bitcoin node/computer recieves a transaction it has never seen before it will immediately forward it to all the other nodes it's connected to
-* As it's propagated miners get to work adding it to the blockchain in the process known as mining.
-
-+++
-
 * What does mining do?
 
 +++
