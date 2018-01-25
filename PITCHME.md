@@ -13,6 +13,7 @@
 1. What is Cryptocurrency?
 2. How do I get started using it?
 3. How do I protect myself?
+4. Resources
 
 ---
 
@@ -65,12 +66,12 @@ First instance of recording a note on a blockchain transaction by Satoshi. "It's
 
 ### What is cryptography?
 
-* Secure communcation in the presense of 3rd parties aka adversaries
+* Secure communication in the presence of 3rd parties
     * Secret Codes, Hidden Messages, Encryption
     * Converting information to nonsense and back to the original message to prevent interception by malicious 3rd parties
 
 Note:
-Famous Example Caesar's Cipher http://practicalcryptography.com/ciphers/caesar-cipher/
+Famous Example Gaius Julius Caesar's Cipher http://practicalcryptography.com/ciphers/caesar-cipher/
 
 +++
 
@@ -175,7 +176,8 @@ Single use, case sensitive, only have a "recieve" address not a "from" address
 
 * [Public and Private Keys](https://anders.com/blockchain/public-private-keys/keys.html)
 * [For the youtube video for a deeper explanation](https://anders.com/blockchain/)
-  +++
+
++++
 
 ### Journey of a Transaction
 
@@ -188,14 +190,20 @@ Single use, case sensitive, only have a "recieve" address not a "from" address
 
 +++
 
-* Mining serves two purposes:
-    * Make sure that each block is properly formed according to the protocol’s consensus rules
-    * any malformed blocks are rejected
-    * Creates new bitcoins in the process, of which there are a finite amount (like a central bank printing new money)
-    * The miner in turn receives bitcoin and a transaction fee as reward for their mining efforts
-    * However, this reward will only be collected if they validate all the transactions according to the consensus rules.
-    * It’s comparable to think of the proof of work algorithm as a giant sudoko puzzle that scales in difficulty
-    * Each miner is in a global race to solve the puzzle and publish the block into the blockchain and receive the reward
+* What does mining do?
+
++++
+
+* Make sure that each block is properly formed according to the protocol’s consensus rules
+* any malformed blocks are rejected
+* Creates new bitcoins in the process, of which there are a finite amount (like a central bank printing new money)
+* The miner in turn receives bitcoin and a transaction fee as reward for their mining efforts
+
++++
+
+* However, this reward will only be collected if they validate all the transactions according to the consensus rules.
+* It’s comparable to think of the proof of work algorithm as a giant sudoko puzzle that scales in difficulty
+* Each miner is in a global race to solve the puzzle and publish the block into the blockchain and receive the reward
 
 +++
 
@@ -262,4 +270,13 @@ Suggest doing research for position trading
 * Use Windows 10 if you want (just turn off the data-gathering settings if it bothers you)
 * don't put stuff on social media that you don't want the world to know
 
-_sure, it's probably fun to brag about your "massive gainz" and "what lambo should I get?" on social media. that's like going to crime alley and loudly saying "boy, i sure love these giant diamonds i'm walking around with right now! they're filling both my hands, so I can't even protect myself if someone were to attack me!"_
+---
+
+@title[Resources]
+
+* https://github.com/bitcoinbook/bitcoinbook
+* https://www.amazon.com/Cryptoassets-Innovative-Investors-Bitcoin-Beyond/dp/1260026671/ref=sr_1_1?ie=UTF8&qid=1516845148&sr=8-1&keywords=cryptoassets
+* http://investorfieldguide.com/hashpower/
+* https://a16z.com/2017/09/28/cryptocurrencies-networks-tokens/
+* https://tim.blog/2017/06/04/nick-szabo/
+* https://medium.com/@preethikasireddy/how-does-ethereum-work-anyway-22d1df506369
