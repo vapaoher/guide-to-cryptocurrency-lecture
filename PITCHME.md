@@ -1,8 +1,8 @@
 @title[Introduction]
 
-### A Beginner's Guide to Cryptocurrency
+## A Beginner's Guide to Cryptocurrency
 
-#### <span style="font-family:Helvetica Neue; font-weight:bold">A Digital <span style="color:#e49436">Gold</span> Rush</span>
+#### <span style="font-family:Helvetica Neue; font-weight:bold">Digital <span style="color:#e49436">Moneys</span></span>
 
 ---
 
@@ -12,7 +12,7 @@
 
 1. What is Cryptocurrency?
 2. How do I get started using it?
-3. Why should you use Cryptocurrency?
+3. How do I protect myself?
 
 ---
 
@@ -149,6 +149,7 @@ Decentralization - free markets, security benefits, p2p service exchanges, econo
     * mining.
     * forum services.
     * meeting someone in a dark alleyway.
+* What do I even buy?
 
 @fa[arrow-down]
 
@@ -174,33 +175,6 @@ Single use, case sensitive, only have a "recieve" address not a "from" address
 [Public and Private Keys](https://anders.com/blockchain/public-private-keys/keys.html)
 +++
 
-### What are exchanges?
-
-* Coinbase
-* Gdax
-* Binance
-* Bittrex
-* Cryptopia
-* ETC
-
-+++
-
-### How do I mine?
-
-1. Buy a fancy gigantic computer with all kinds of lights and fans and setup a mining client and run it all day.
-2. Figure out how to cloud mine (same thing minus having to buy the fancy computer).
-
-Also known as Proof of Work, or Proof of Stake, or Proof of Authority.
-
-+++
-
-### How do you transfer money?
-
-* Through an exchange
-* Bitcoin Software
-
-+++
-
 ### Journey of a Transaction
 
 * A client wishes to send money and generates an output using a script (or software)
@@ -221,37 +195,69 @@ Also known as Proof of Work, or Proof of Stake, or Proof of Authority.
     * It’s comparable to think of the proof of work algorithm as a giant sudoko puzzle that scales in difficulty
     * Each miner is in a global race to solve the puzzle and publish the block into the blockchain and receive the reward
 
++++
+
+### What are exchanges?
+
+* Coinbase
+* Gdax
+* Binance
+* Bittrex
+* Cryptopia
+* ETC
+
++++
+
+### How do I mine?
+
+1. Buy a fancy gigantic computer with all kinds of lights and fans and setup a mining client and run it all day.
+2. Figure out how to cloud mine (same thing minus having to buy the fancy computer).
+
+Also known as Proof of Work, or Proof of Stake, or Proof of Authority.
+
++++
+
+### What coin should I buy?
+
+* Most exchanges use Bitcoin (BTC), Ethereum (Ether) to trade against other alt coins.
+
+Note:
+Suggest doing research for position trading
+
 ---
 
-@title[What are the uses for Cryptocurrency?]
+@title[How do I protect myself from online banditos?]
 
-### What are the uses for Cryptocurrency?
+### How do I protect myself from online banditos?
 
-1. As a trade for digital commodities or services
-2. As an investment
+* Use open, auditable software
+* Use a VPN
+* Use 2 Factor Authentication
+* Use a secure Browser with privacy add-ons
+* Disable WebRTC
+* Use encrypted Email services and PGP
+* Use encrypted messenger services
+* Encrypt your files, passwords, harddrives
 
 @fa[arrow-down]
-
 +++
 
-1. As an exchange for use of your digitial commodities
+* Use and keep your anti-virus software up-to-date
+* Don't open attachments in email (this isn't the 90s)
+* Don't click on links in emails from people you don't know
+* Hover over links in emails to make sure you're going to where you think you're going to
+* Keep your operating system up-to-date
+* Don't give out your password. "Customer support" is never going to ask for it
+* Use a password manager (I recommend KeePass)
+* Don't re-use passwords across multiple sites
 
-```
-+ Computer System
-|
-| Consumer
-| Applications
-| Operating System
-| Hardware
-|
-+ Fin
-```
-
+@fa[arrow-down]
 +++
 
-1. As an exchange for use of your digitial or non-digital services
+* Don't create usernames based on your email address
+* Install ad blocking/privacy extensions in your browser _but learn how to configure them properly_
+* Use software from trusted developers
+* Use Windows 10 if you want (just turn off the data-gathering settings if it bothers you)
+* don't put stuff on social media that you don't want the world to know
 
-+++
-
-1. Position Trading
-2. Day Trading
+_sure, it's probably fun to brag about your "massive gainz" and "what lambo should I get?" on social media. that's like going to crime alley and loudly saying "boy, i sure love these giant diamonds i'm walking around with right now! they're filling both my hands, so I can't even protect myself if someone were to attack me!"_
